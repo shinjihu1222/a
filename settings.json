@@ -4,7 +4,7 @@
     "subtitle": "얼굴로 보는 인공지능 동물상 테스트",
     "footerText": "&copy; 허석테크 2024. All Rights Reserved.",
     
-    "modelUrl": "https://teachablemachine.withgoogle.com/models/CPrPznTPo/",
+    "modelUrl": "https://teachablemachine.withgoogle.com/models/Mzd8aG35mz/",
     "classDetails": [
         {
             "name": "허경영",
@@ -24,7 +24,7 @@
             "name": "코주부원숭이",
             "title": "원숭이상",
             "explain": "통통한 코와 섹시한 코 크기는 첫인상부터 묘한 매력을 풍겨 언제나 인기가 넘친다. 관심 받는 것을 좋아하고 애교도 부릴 줄 아는 귀여운 매력을 가졌다. 연인에게 끊임없이 설렘을 안겨주는 당신은 한낱 원숭이와 닮았다!",
-            "celeb": "원숭상 연예인: 윤석열, 트럼프, 배리나",
+            "celeb": "원숭상 연예인: 윤석열, 트럼프",
             "color": "rgba(265, 100, 50, 1)"
         }
     ]
